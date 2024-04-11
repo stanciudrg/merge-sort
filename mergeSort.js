@@ -1,4 +1,4 @@
-function mergeSort(numbers) {
+export default function mergeSort(numbers) {
   // Recursion base case
   if (numbers.length == 1) {
     return numbers;
