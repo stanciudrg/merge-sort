@@ -1,5 +1,5 @@
 # merge-sort
-An array sorting utility module that uses the Merge Sort algorithm.
+An array sorting utility function that uses the Merge Sort algorithm.
 
 #### Time complexity
 
